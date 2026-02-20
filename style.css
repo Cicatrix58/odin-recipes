@@ -1,0 +1,10 @@
+body { 
+    background: #fdc6e5;
+    font-family: Verdana, Helvetica, Arial, sans-serif;
+}
+
+.center-card {
+    width: 800px;
+    margin: 8px auto;
+    background: #fddac6;
+}

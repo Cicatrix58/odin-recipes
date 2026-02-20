@@ -1,11 +1,10 @@
 * {
     box-sizing: border-box;
 }
+
 body { 
     background: #fdc6e5;
     font-family: Verdana, Helvetica, Arial, sans-serif;
-    
-
 }
 
 .center-card {
@@ -23,7 +22,13 @@ body {
 }
 
 #title {
+    width: 600px;
+    height: 120px;
+    margin: 32px auto;
     font-size: 80px;
     text-align: center;
+    border-top: 8px double blue;
+    border-bottom: 8px double blue;
+    
 
 }

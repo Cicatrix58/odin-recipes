@@ -1,10 +1,29 @@
+* {
+    box-sizing: border-box;
+}
 body { 
     background: #fdc6e5;
     font-family: Verdana, Helvetica, Arial, sans-serif;
+    
+
 }
 
 .center-card {
-    width: 800px;
-    margin: 8px auto;
+    width: 1000px;
+    margin: auto;
+    padding: 16px 100px;
     background: #fddac6;
+    text-align: center;
+    
+}
+
+.list {
+    display: inline-block;
+    text-align: left;
+}
+
+#title {
+    font-size: 80px;
+    text-align: center;
+
 }

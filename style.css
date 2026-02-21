@@ -27,8 +27,8 @@ body {
     margin: 32px auto;
     font-size: 80px;
     text-align: center;
-    border-top: 8px dotted blue;
-    border-bottom: 8px dotted blue;
+    border-top: 8px dotted rgb(234, 75, 255);
+    border-bottom: 8px dotted rgb(234, 75, 255);
     
 
 }
